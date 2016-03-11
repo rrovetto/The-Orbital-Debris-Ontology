@@ -1,5 +1,4 @@
-# ODO
-The Orbital Debris Ontology
+# ODO - The Orbital Debris Ontology
 
 The Orbital Debris Ontology (ODO) is an ontology representing orbital debris objects in orbit about Earth.
 
