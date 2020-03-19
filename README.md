@@ -1,4 +1,4 @@
-#The Orbital Debris Ontology (ODO)
+# The Orbital Debris Ontology (ODO)
 The Orbital Debris Ontology (ODO)[1] is a computational ontology representing orbital debris in orbit about Earth (or any central body), and other relevant orbital entities. It represents orbital objects, more broadly, and the relationships between them and the central astronomical body or bodies in question. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in space (part of space situational awareness). The central focus is the orbital space environment.
 
 ##Purpose and Goals##
