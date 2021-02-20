@@ -1,5 +1,5 @@
 # The Orbital Debris Ontology (ODO)
-The Orbital Debris Ontology (ODO)[1] is a computational ontology representing orbital debris in orbit about Earth or any central body.  It represents orbital objects, more broadly, the relationships between them and the orbited body or bodies. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in space (part of space situational awareness). If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+The Orbital Debris Ontology (ODO)[1] is a computational ontology representing orbital debris in orbit about Earth or any central body.  It represents orbital objects, more broadly, the relationships between them and the orbited body or bodies. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in space (part of space situational awareness). If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 
 ## Purpose
 * To facilitate data-sharing and integration among orbital debris and space object catalogues
@@ -13,7 +13,7 @@ The Orbital Debris Ontology (ODO)[1] is a computational ontology representing or
 * Funding is needed to develop and share this work. 
 Please contact me to help by offering some opportunity or invitation to partner. 
 
-## DESIDERATA
+## Desiderata (How you can help)
 * Sponsorship, a PhD studentsthip, or employment opportunity is needed to develop this work.
 * Professors--please invite me to be a PhD student. 
 * Mentors, a Team, and partnerships to continue development
@@ -21,7 +21,7 @@ Please contact me to help by offering some opportunity or invitation to partner.
 * Technical services to develop hosting, search, visualiation, and other functionalities
 * Users of the ontology
 * Datasets to apply the ontology
-CONTACT rrovetto[at]terpalum.umd.edu if you are interested in helping with this ontology or the broader project. 
+[CONTACT via email](mailto:rrovetto@terpalum.umd.edu) if you are interested in helping with this ontology or the broader project. 
 
 ## CONTEXT-EFFORTS 
 This has been a pursuit since 2011, when I conceived of the concept (verification available upon request). Since then I've been searching for an opportunity (employment, PhD fellowship, research position, researcher-training network, mentors, a team, etc.) to sustainably work on, develop, and implement this ontology in a team environment with professionals in astrodynamics, astroinformatics, computer science, and ontology engineering. I have developed enough paper cocepts on this to make it a Phd project.
