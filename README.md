@@ -45,7 +45,10 @@ URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
 Ontology creator: Robert J. Rovetto, Univ.Maryland Alum (2007), SUNY Alum (2011)
 Email: rrovetto[at]terpalum.umd.edu
 
-## Rights
-© 2011-2020, Robert John Rovetto. All right reserved.
-Not authorized for commercial use unless negotiated with the author.
-Attribution must be given.
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
+## Copyright
+© 2011-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
