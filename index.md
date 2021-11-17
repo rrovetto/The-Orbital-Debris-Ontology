@@ -1,32 +1,28 @@
 ### Ontology Description
-ODO is an ontology of the orbital debris or space debris domain [1]. It contains classes of the types of orbital debris as well as classes and relations of relevant and related orbital entities. 
+ODO is an ontology of orbital/space debris [1]. It contains categories of orbital debris as well as categories and non-categorical relations for relevant and related orbital domain  entities. These ontology constructs are defined in natural langauge, and in computable formalisms. 
 <br><br> 
-The purpose and goals of ODO (and related ontologies by the author) are (i) to offer formal models of the domain, (ii) generic terminilogies and taxonomies, (iii) foster data-sharing and fusion among space debris and space object catalogues, (iv) help ameliorate the orbital debris problem, and (v) contribute to the philosophy and formal ontology of the domain.
+The purpose and goals of ODO (and related ontologies by the author) are (i) to offer formal knowledge representaiton models of the target domain, (ii) generic terminologies and taxonomies, (iii) to foster data-sharing and fusion among space debris and space object catalogues, (iv) help ameliorate the orbital debris problem, and (v) contribute to the philosophy and formal ontology of the domain.
 <br><br>
-Given the inevitable need to include related concepts from a the broader orbital space domain, ODO is subject to merger, name-change, revision of scope/domain-demarcation. For example, ODO may become the Orbital Ontology 
-
+Given the need to include related concepts from a the broader orbital space domain, ODO is subject to merger, name-change, revision of scope/domain-demarcation. For example, ODO may become the Orbital Ontology. 
+<br><br> ODO is part of a [broader project](https://ontospace.wordpress.com) to create a suite of ontologies for the space domain.
 ### Status
-Under development as circumstances permit. The ontology creator seeks an funded opportunity to sustainable develop ODO, as well as collaborators/partners. 
+In-progress, unfunded but actively open to formal support. Under development as circumstances permit. The ontology creator seeks an funded opportunity to sustainable develop ODO, as well as formal work collaborations and partnerships.
+
+![Public mention (on Twitter) of presentation at the 2016 CODER workshop](https://github.com/rrovetto/The-Orbital-Debris-Ontology/raw/master/images/TwitterMention_ODO_Rovetto.jpg)
 
 ### Author/Creator
-Robert J. Rovetto<br>
-ORCID: 0000-0003-3835-7817<br>
-https://github.com/rrovetto/<br>
-http://dblp2.uni-trier.de/pers/hd/r/Rovetto:Robert_J=<br>
-https://www.researchgate.net/profile/Robert_Rovetto<br>
+Robert J. Rovetto - Conceptual Engineering & Knowledge modeling. Space Ontologist.<br>
 
-### Publications
+[ORCID profile](https://orcid.org/0000-0003-3835-7817)<br>
+[GitHub of Author](https://github.com/rrovetto/)<br>
 
-[1]“An Ontological Architecture for Orbital Debris Data”, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
+### Selected Publications & Presentations
+- “An Ontological Architecture for Orbital Debris Data”, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
+- “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
+- "The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, (Poster presentation http://amostech.com/agenda/poster-presenters-2/)
+- "Orbital Debris Ontology" at 2016 CODER Workshop, University of Maryland. [Purchase PPT here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/s73face6d391370e0ac51295db29f2c9d6dce1c9c)
 
-[2]“Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
-
-[3] _"The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, (Poster presentation http://amostech.com/agenda/poster-presenters-2/)
-
-[4] "Orbital Space Environment and Space Situational Awareness Domain" In CEUR workshop proceedings for The Joint Ontology Workshops, at the 9th International Conference of Formal Ontology for Information Systems (FOIS) Early Career Symposium, Annecy, France July 2016. URL= http://ceur-ws.org/Vol-1660/ Project summary paper URL= http://ceur-ws.org/Vol-1660/ecs-paper1.pdf
-
-### License
-Copyright (c) Robert J. Rovetto 2011-2016.
-
+### Copyright
+Copyright (c) 2011-2016, Robert J. Rovetto. All rights reserved.  
 ### Contact
-rrovetto[at]terpalum[dot]umd[dot]edu
+[Contact](https://ontospace.wordpress.com/contact
