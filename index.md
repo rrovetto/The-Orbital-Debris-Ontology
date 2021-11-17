@@ -13,10 +13,10 @@ Some purposes for ODO (and related ontologies by the author) are (i) to offer fo
 - Given the need to include related concepts from a the broader orbital space domain, ODO is subject to merger, name-change, revision of scope/domain-demarcation. For example, ODO may become the Orbital Ontology. 
 
 ### Selected Publications & Presentations
-- “An Ontological Architecture for Orbital Debris Data”, Robert J. Rovetto (Aug 6 2015) Earth Science Informatics, 9(1), 67-82 (submitted 2014). Springer Berlin Heidelberg. DOI: 10.1007/s12145-015-0233-3 URL= http://link.springer.com/article/10.1007/s12145-015-0233-3
-- “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, T.S. Kelso. (Forthcoming) Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
-- "The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, (Poster presentation http://amostech.com/agenda/poster-presenters-2/)
-- "Orbital Debris Ontology" at 2016 CODER Workshop, University of Maryland. [Purchase PPT here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/s73face6d391370e0ac51295db29f2c9d6dce1c9c)
+- [“An Ontological Architecture for Orbital Debris Data”](http://link.springer.com/article/10.1007/s12145-015-0233-3), by Robert J. Rovetto (Aug 6 2015)(submitted 2014) Earth Science Informatics, 9(1), 67-82. Springer. DOI: 10.1007/s12145-015-0233-3
+- “Preliminaries of a Space Situational Awareness Ontology”, Robert John Rovetto, and T.S. Kelso. In Advances in Astronautical Sciences, Univelt. Presented at 26th AIAA/AAS Space Flight Mechanics meeting, Napa, CA, USA Feb 14-18th, 2016.
+- "Orbital Debris Ontology" Presentation at 2016 CODER Workshop, University of Maryland. [Purchase PPT here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/s73face6d391370e0ac51295db29f2c9d6dce1c9c)
+- "The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, [Poster presentation]( http://amostech.com/agenda/poster-presenters-2/)
 
 ### Author/Creator
 Robert J. Rovetto - Conceptual Engineering, Knowledge modeling, Formal Ontology, Terminology. Space Ontologist.<br>
