@@ -7,7 +7,9 @@ Some purposes for ODO (and related ontologies by the author) are (i) to offer fo
 
 ### Public mentions
 ![Public mention (on Twitter) of presentation at the 2016 CODER workshop](https://github.com/rrovetto/The-Orbital-Debris-Ontology/raw/master/images/TwitterMention_ODO_Rovetto.jpg)
-
+<br><br>
+![ODO Presentation Slide at CODER 2016](https://github.com/rrovetto/The-Orbital-Debris-Ontology/raw/master/images/ODOcoder2016_image_rovetto.JPG)
+<br><br>
 ### Status
 - In-progress, unfunded but actively open to formal support. Under development as circumstances permit. 
 - The ontology creator seeks an funded opportunity to sustainable develop ODO, as well as formal work collaborations and partnerships.
