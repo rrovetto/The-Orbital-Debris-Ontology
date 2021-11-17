@@ -1,0 +1,8 @@
+title: The Orbital Debris Ontology
+description: The Orbital Debris Ontology (ODO) is an ontology of the orbital or space debris domain. It contains classes for orbital entities and concepts, such as types of orbital debris.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
