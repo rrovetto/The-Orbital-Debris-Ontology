@@ -24,11 +24,12 @@ Some purposes for ODO (and related ontologies by the author) are (i) to offer fo
 - "The Orbital Space Environment and Space Situational Awareness Domain Ontology – Towards an International Information System for Space Data", AMOS 2016, [Poster presentation]( http://amostech.com/agenda/poster-presenters-2/)
 
 ### Author/Creator
-Robert J. Rovetto - Conceptual Engineering, Knowledge modeling, Formal Ontology, Terminology. Space Ontologist.<br>
+[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817) - Space Ontologist & Aerospace terminologist.<br>
+Conceptual Engineering, Knowledge modeling, Formal Ontology, MBSE, Terminology.<br>
 [Contact](https://ontospace.wordpress.com/contact)<br>
 [Schedule a meeting or hire for services](https://tinyurl.com/yas7trzy)<br>
 [ORCID profile](https://orcid.org/0000-0003-3835-7817)<br>
 [GitHub of Author](https://github.com/rrovetto/)<br>
 
 ### Copyright
-Copyright (c) 2011-2016, Robert J. Rovetto. All rights reserved. 
+© 2011-2016, Robert J. Rovetto. All rights reserved. 
