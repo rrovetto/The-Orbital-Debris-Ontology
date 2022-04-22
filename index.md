@@ -32,4 +32,4 @@ Conceptual Engineering, Knowledge modeling, Formal Ontology, MBSE, Terminology.<
 [GitHub of Author](https://github.com/rrovetto/)<br>
 
 ### Copyright
-© 2011-2016, Robert J. Rovetto. All rights reserved. 
+© 2011-2022, Robert J. Rovetto. All rights reserved. 
