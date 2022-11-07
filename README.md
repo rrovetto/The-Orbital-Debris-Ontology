@@ -9,10 +9,11 @@ The Orbital Debris Ontology (ODO)[1] is a computational ontology representing or
 * To continue my studies of astronautical topics
 ...in order to help ensure global orbital space safety and security of Earth and space-borne assetts (satellites, etc.).
 
-## Status
-* In-progress, subject to revision. 
-* As unfunded work, formal support is needed: financial, educational and technical support is needed to sustain development. As unfunded work, donations and sponosrs are welcome and appreciated. The author desires employment and PhD study opportunities to pursue this work in a sustainable, educated, mentored, and protected environment. 
-* [Contact the author to help formally support or discuss formal work collaborations](https://ontospace.wordpress.com/contact) [Or Contact via email(mailto:rrovetto@terpalum.umd.edu)
+## Status & Access
+* In-progress, subject to revision. No claims to completeness.
+* As a personal unfunded project since inception, funding/sponsors and work collaborations or a PhD study opportunity are needed to continue, complete and sustain development and realize the project vision. Contact rrovetto@terpalum.umd.edu with opportunities, offers, and work collaborations interest. 
+* Donations are welcome. SEEKING patrons, sponsors, employer support, grants, funding, etc. 
+* Professors interested in applying to grants with me should contact my email below; Stuentship for this as a PhD 
 
 ## Desiderata (How you can help)
 * Sponsorship, a PhD studentsthip, or employment opportunity is needed to develop this work.
