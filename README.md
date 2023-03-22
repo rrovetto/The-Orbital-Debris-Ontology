@@ -31,7 +31,7 @@ As an unfunded personal project, you can help by offerring financial support, em
   * [GoGetFunding](https://gogetfunding.com/?p=6893352)
 
 ## Context / History
-This has been a pursuit since 2011, when I conceived of the concept (verification documents available upon request). It's been my hopeful entry to the space sector. Since then I've been searching for opportunities (employment, PhD fellowship, research position, researcher-training network, a team, etc.) to sustainably develop and implement this ontology while continuing studies in space topics (a passion). I have hoped to do so in a stable, safet, educational environment with professionals in relevant topics (astrodynamics, astroinformatics, AI, etc.), and I've developed enough paper cocepts on this to make it a PhD project.
+This has been a pursuit since 2011, when I conceived of the concept (verification documents available upon request). It's been my hopeful entry to the space sector. Since then I've been searching for opportunities (employment, PhD fellowship, researcher-training networks, a team, etc.) to sustainably develop and implement this ontology while continuing studies in space topics (a passion). I have hoped to do so in a stable, safe, educational environment with professionals in relevant topics (astrodynamics, astroinformatics, AI, etc.), and I've developed enough paper cocepts on this to make it a PhD project.
 
 ## Access
 * Contact if interested in purchasing use 
