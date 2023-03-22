@@ -2,7 +2,7 @@
 The Orbital Debris Ontology (ODO)[1] is a computational ontology and conceptual model for orbital debris data, and about the debris in orbit about Earth or any central body. It thereby offers a generic space debris model that can be applied to specific celestial bodies and data sources thereof, and specialized accordingly. With collected datasets, it provides a knowledge graph. If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 
 ## Description
-See also the Ontology Requirements Specification Document (purchase link). 
+_See also the Ontology Requirements Specification Document (purchase link coming soon)._
 
 ### Scope
 ODO represents orbital objects, their characteristics, the relationships between them and the orbited body or bodies, relevant activities (e.g., remediation, mitigation, etc.). The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion), and removal of objects in orbit. As such it is part of [space situational awareness](https://github.com/rrovetto/space-situational-awareness-domain-ontology)[2]. Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
