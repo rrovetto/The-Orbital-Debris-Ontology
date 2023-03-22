@@ -1,8 +1,8 @@
 # The Orbital Debris Ontology (ODO)
-The Orbital Debris Ontology (ODO)[1] is a computational ontology and conceptual model for orbital debris data, and about the debris in orbit about Earth or any central body. It thereby offers a generic space debris model that can be applied to specific celestial bodies and data sources thereof, and specialized accordingly. 
+The Orbital Debris Ontology (ODO)[1] is a computational ontology and conceptual model for orbital debris data, and about the debris in orbit about Earth or any central body. It thereby offers a generic space debris model that can be applied to specific celestial bodies and data sources thereof, and specialized accordingly. With collected datasets, it provides a knowledge graph. If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 
 ## Description
-See also the Ontology Requirements Specification Document. If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+See also the Ontology Requirements Specification Document (purchase link). 
 
 ### Scope
 ODO represents orbital objects, their characteristics, the relationships between them and the orbited body or bodies. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in orbit. As such it is part of [space situational awareness](https://github.com/rrovetto/space-situational-awareness-domain-ontology). Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
@@ -12,27 +12,26 @@ ODO represents orbital objects, their characteristics, the relationships between
 * To facilitate data-sharing, integration, and fusion among orbital debris and space object catalogues, where desired
 * To stimulate international cooperation among SSA communities by providing a model (and development approach) that may be neutral and applicable to all communities
 * To formally reprsent orbital debris entities and relevant content
+* To explore the utility of ontology and various applications
 * To continue my studies of astronautical topics
 ...in order to help ensure global orbital space safety and security of Earth and space-borne assetts (satellites, etc.).
 
-### Status & Access
-* In-progress, pending formal support. Subject to revision. No claims to completeness.
-* As a personal unfunded project since inception, continued development is dependent on circumstances. Formal support--including finances and work and study opportunities--are needed to complete and sustain development. [Contact the author](https://ontospace.wordpress.com/contact) to formally support the project in some way. 
-* Donations are welcome. ACTIVELY NEEDING: patrons, sponsors, employer support, grants, funding, etc. 
-* Professors interested in applying to grants with me should contact my email below; Stuentship for this as a PhD 
+### Status
+* In-progress as circumstances permit. Subject to revision.
+* As a personal unfunded project since inception, continued development is dependent on circumstances. Formal support is needed to complete and sustain development to realize the full project vision which is ambitious, multidisciplinary and detailed. [Contact the author](https://ontospace.wordpress.com/contact) to formally support the project in some way. Donations are welcome at the below web-links.  
+* ACTIVELY NEEDING: financial support, employer support, stable environment with resources to development and continue learning, etc.
+* Desired as my PhD or other graduate project
 
-## Desiderata (How you can help)
-* Sponsorship, a PhD studentsthip, or employment opportunity is needed to develop this work.
-* Professors--please invite me to be a PhD student. 
-* Mentors, a Team, and partnerships to continue development
-* Co-authors on related papers
-* Technical services to develop hosting, search, visualiation, and other functionalities
-* Users of the ontology
-* Datasets to apply the ontology
-[Or Contact via email](mailto:rrovetto@terpalum.umd.edu) if you are interested in helping with this ontology or the broader project. 
+## Support / Contribute / Desiderata - How you can help 
+You can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, voluntary technical expertise/servies for desired functionalities of my project, relevant datasets to apply the ontology to, and to be a user of the ontology(s). [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
-## CONTEXT / EFFORTS 
-This has been a pursuit since 2011, when I conceived of the concept (verification documents available upon request). Since then I've been searching for an opportunity (employment, PhD fellowship, research position, researcher-training network, a team, etc.) to sustainably develop and implement this ontology in a collaborative mentored and educational environment with professionals in astrodynamics, astroinformatics, AI, and ontology engineering. I have developed enough paper cocepts on this to make it a PhD project.
+* Donate: 
+  * [PayPal](https://tinyurl.com/donateViaPayPalrr)
+  * [Patreon](https://tinyurl.com/y9qegjsh)
+  * [GoGetFunding](https://gogetfunding.com/?p=6893352)
+
+## Context / History
+This has been a pursuit since 2011, when I conceived of the concept (verification documents available upon request). It's been my hopeful entry to the space sector. Since then I've been searching for opportunities (employment, PhD fellowship, research position, researcher-training network, a team, etc.) to sustainably develop and implement this ontology while continuing studies in space topics (a passion). I have hoped to do so in a stable, safet, educational environment with professionals in relevant topics (astrodynamics, astroinformatics, AI, etc.), and I've developed enough paper cocepts on this to make it a PhD project.
 
 ## A Note on Domain-Demarcation
 Given that the name focuses on orbital debris, a generalization will allow ODO classes to be part of or imported into a broader ontology: e.g., an Orbital Space Ontology[3][4], Orbital Object Ontology, Space Situational Awareness Ontology [2], etc. See my other repositories. The demarcation of ODO and my related ontologies is under development, and the overall ontology suite subject to revision.
@@ -49,9 +48,6 @@ Given that the name focuses on orbital debris, a generalization will allow ODO c
 ## Author / Creator / Developer - Contact
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist](https://purl.org/space-ontology)
 _Conceptual Engineering, Knowledge modeling, Terminology_
-
-### Support
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
 ## Warranty 
 No warranty. No liability. All content, work and products are subject to revision. No claims to completeness.  
