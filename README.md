@@ -7,11 +7,15 @@ _See also the Ontology Requirements Specification Document (purchase link coming
 ### Scope
 ODO represents orbital objects, their characteristics, the relationships between them and the orbited body or bodies, relevant activities (e.g., remediation, mitigation, etc.). The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion), and removal of objects in orbit. As such it is part of [space situational awareness](https://github.com/rrovetto/space-situational-awareness-domain-ontology)[2]. Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
 
+### ### Architecture
+A self-contained module, usable by itself, but also part of the author's wider [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies and other knowledge organization systems.
+
 ### Purpose & Value
 * To support remediation of orbital debris hazards by contributing to data management, interoperability where desired, and AI applications
 * To facilitate data-sharing, integration, and fusion among orbital debris and space object catalogues, where desired
 * To stimulate international cooperation among SSA communities by providing a model (and development approach) that may be neutral and applicable to all communities
 * To formally reprsent orbital debris entities and relevant content
+* To support data and content search and retrieval among relevant domain content (documents, data, etc.) 
 * To explore the utility of ontology and various applications
 * To continue my studies of astronautical topics
 ...in order to help ensure global orbital space safety and security of Earth and space-borne assetts (satellites, etc.).
