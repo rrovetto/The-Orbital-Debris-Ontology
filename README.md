@@ -1,18 +1,24 @@
 # The Orbital Debris Ontology (ODO)
-The Orbital Debris Ontology (ODO)[1] is a computational ontology representing orbital debris in orbit about Earth or any central body.  It represents orbital objects, more broadly, the relationships between them and the orbited body or bodies. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in space (part of space situational awareness). If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+The Orbital Debris Ontology (ODO)[1] is a computational ontology and conceptual model for orbital debris data, and about the debris in orbit about Earth or any central body. It thereby offers a generic space debris model that can be applied to specific celestial bodies and data sources thereof, and specialized accordingly. 
 
-## Purpose
-* To support remediation of the orbital debris hazard by contributing to data and AI applications
-* To facilitate data-sharing and integration among orbital debris and space object catalogues
-* To stimulate international cooperation among SSA communities
-* To formally reprsent orbital debris entities
+## Description
+See also the Ontology Requirements Specification Document. If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+
+### Scope
+ODO represents orbital objects, their characteristics, the relationships between them and the orbited body or bodies. The orbital debris domain involves observation, detection, identificaiton, tracking and propogation (predition of future behavior or motion) of objects in orbit. As such it is part of [space situational awareness](https://github.com/rrovetto/space-situational-awareness-domain-ontology). Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
+
+### Purpose & Value
+* To support remediation of orbital debris hazards by contributing to data management, interoperability where desired, and AI applications
+* To facilitate data-sharing, integration, and fusion among orbital debris and space object catalogues, where desired
+* To stimulate international cooperation among SSA communities by providing a model (and development approach) that may be neutral and applicable to all communities
+* To formally reprsent orbital debris entities and relevant content
 * To continue my studies of astronautical topics
 ...in order to help ensure global orbital space safety and security of Earth and space-borne assetts (satellites, etc.).
 
-## Status & Access
-* In-progress, subject to revision. No claims to completeness.
-* As a personal unfunded project since inception, funding/sponsors and work collaborations or a PhD study opportunity are needed to continue, complete and sustain development and realize the project vision. Contact rrovetto@terpalum.umd.edu with opportunities, offers, and work collaborations interest. 
-* Donations are welcome. SEEKING patrons, sponsors, employer support, grants, funding, etc. 
+### Status & Access
+* In-progress, pending formal support. Subject to revision. No claims to completeness.
+* As a personal unfunded project since inception, continued development is dependent on circumstances. Formal support--including finances and work and study opportunities--are needed to complete and sustain development. [Contact the author](https://ontospace.wordpress.com/contact) to formally support the project in some way. 
+* Donations are welcome. ACTIVELY NEEDING: patrons, sponsors, employer support, grants, funding, etc. 
 * Professors interested in applying to grants with me should contact my email below; Stuentship for this as a PhD 
 
 ## Desiderata (How you can help)
@@ -40,16 +46,17 @@ Given that the name focuses on orbital debris, a generalization will allow ODO c
 * ["An Ontology-Based Virtual Orrery"](https://ntrs.nasa.gov/citations/20210000030), D.A.O'Neil (NASA), R.Rovetto. https://ntrs.nasa.gov/citations/20210000030
 * "Orbital Debris Ontology", PPT Presentaiton at CODER Workshop, University of Maryland, 2016.
  
-## Author / Creator / Developer
-Robert J. Rovetto - Space Ontologist
-Conceptual Engineering, Knowledge modeling, Terminology.
-
-All content, work and products are subject to revision. No claims to completeness. 
+## Author / Creator / Developer - Contact
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817) - [Space Ontologist](https://purl.org/space-ontology)
+_Conceptual Engineering, Knowledge modeling, Terminology_
 
 ### Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
+## Warranty 
+No warranty. No liability. All content, work and products are subject to revision. No claims to completeness.  
+
 ## Copyright
-© 2011-2022, Robert John Rovetto. All right reserved.
+© 2011-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
