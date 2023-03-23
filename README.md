@@ -42,7 +42,7 @@ This has been a pursuit since 2011, when I conceived of the concept (verificatio
 * With sufficient formal support, the ontology may become open 
 
 ## A Note on Domain Demarcation
-Given that the name focuses on orbital debris, a generalization will allow ODO classes to be part of or imported into a broader ontology: e.g., an Orbital Space Ontology[3], Orbital Object Ontology, Space Situational Awareness Ontology[2], etc. See my other [repositories](https://github.com/rrovetto?page=2&tab=repositories). The demarcation of ODO and my related ontologies is under development, and the overall ontology suite subject to revision.
+Given that the name focuses on orbital debris, a generalization will allow ODO classes to be part of or imported into a broader ontology: e.g., an Orbital Space Ontology[3], [Orbital Object Ontology](https://github.com/rrovetto/The-Orbital-Object-Ontology), [Space Situational Awareness Ontology](https://github.com/rrovetto/space-situational-awareness-domain-ontology)[2], etc. See my other [repositories](https://github.com/rrovetto?page=2&tab=repositories). The demarcation of ODO and my related ontologies is under development, and the overall ontology suite subject to revision.
 
 ## Relevant Publications & Presentations
 [See this webpage for full list of relevant articles](https://ontospace.wordpress.com/publications)
