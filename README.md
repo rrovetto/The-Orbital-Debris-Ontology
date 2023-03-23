@@ -26,7 +26,7 @@ A self-contained module, usable by itself, but also part of the author's wider [
 * ACTIVELY NEEDING: financial support, employer support, stable environment with resources to development and continue learning, etc.
 * Desired as my PhD or other graduate project
 
-## Support / Contribute / Desiderata - How you can help 
+## Support / Contribute - How you can help 
 As an unfunded personal project, you can help by offerring financial support, employment opportunities, graduate study opportunities whereby this can be part of my thesis or projects, co-authorship on papers or proposal, mentorship, voluntary technical expertise/servies for desired functionalities of my project, relevant datasets to apply the ontology to, and to be a user of the ontology(s). [Contact](https://ontospace.wordpress.com/contact), or [schedule a meeting](https://tinyurl.com/hm8wu2sa) 
 
 * Donate: 
